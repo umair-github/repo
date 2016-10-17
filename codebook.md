@@ -5,7 +5,7 @@
 Summarizes the average of each variable for each activity and each subject. The results are saved in tidydata.txt
 
 Source Data
-The data for tidydata.txt is derived from source data: The UCI Machine Learning Repository [link]http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) here  
+The data for tidydata.txt is derived from source data: The UCI Machine Learning Repository [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) here  
 
 
 #Identifiers
