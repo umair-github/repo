@@ -1,4 +1,4 @@
-##Get Data file and Unzip
+##Inintial Setup - Get Data file and Unzip
 ##setwd("Z:/Umair/Data Science/Course 3 - Getting and Cleaning Data/Week 4/repo")
 ##fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" 
 ##download.file (fileUrl, destfile="projectdataset.zip") 
