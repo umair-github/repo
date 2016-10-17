@@ -19,14 +19,27 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
  Activity : The type of activity performed when the corresponding measurements were taken.  
 
 #Program Function
-##Initial Setup  
-###Set Working directory using setwd()    
-###Download Data file using download.file()  
-###Unzip   
+##0. Initial Setup  
+#####Set Working directory using setwd()    
+#####Download Data file using download.file()  
+#####Unzip   
+#####Set variable for Test, Train, Features, Activity Datasets  
 
+##1. Merge Datasets
+#####Merge Test, Train, Features, Activity Datasets using the rbind function      
 
+##2. Mean and STD. Deviation   
+#####Extract mean and std. deviation for each measurement using the grep function
 
-## Features & Activity Dataset Setup
+##3. Descriptive activity name  
+#####Using the activityData to include descriptive activity name  
+
+##4. Label Data
+#####Use gusb function for patter matching and replacement    
+
+##5. Create second data file: tidydata.txt
+#####Using output from 4 (per instruction) generated tidydata.txt which contained data set with the average of each variable for each activity and each subject. Used write.table() to create the tidydata.txt     
+
 #Data Dictionary
 
   [1] "SubjectID"                                                               
