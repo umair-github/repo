@@ -29,13 +29,13 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 #####Merge Test, Train, Features, Activity Datasets using the rbind function      
 
 ##2. Mean and STD. Deviation   
-#####Extract mean and std. deviation for each measurement using the grep function
+#####Extracted mean and std. deviation for each measurement using the grep() function
 
 ##3. Descriptive activity name  
-#####Using the activityData to include descriptive activity name  
+#####Used the activityData variable to include descriptive activity name  
 
 ##4. Label Data
-#####Use gusb function for patter matching and replacement    
+#####Used gusb function for patter matching and replacement    
 
 ##5. Create second data file: tidydata.txt
 #####Using output from 4 (per instruction) generated tidydata.txt which contained data set with the average of each variable for each activity and each subject. Used write.table() to create the tidydata.txt     
