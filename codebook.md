@@ -40,7 +40,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ##5. Create second data file: tidydata.txt
 #####Using output from 4 (per instruction) generated tidydata.txt which contained data set with the average of each variable for each activity and each subject. Used write.table() to create the tidydata.txt     
 
-#Data Dictionary
+#Measurements / Data Dictionary
 
   [1] "SubjectID"                                                               
   [2] "Activity"                                                                
