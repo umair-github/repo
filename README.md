@@ -4,6 +4,10 @@ Peer-graded Assignment: Getting and Cleaning Data Course Project
 Version 1.0
 ==================================================================
 
+The dataset being used is: 
+Human Activity Recognition Using Smartphones
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 The dataset includes the following files:
 =========================================
 
