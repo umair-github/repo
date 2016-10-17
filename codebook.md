@@ -1,17 +1,18 @@
-Umair Hussain
+#repo
+#Umair Hussain
 
-Codebook Description
+#Codebook Description
 Summarizes the average of each variable for each activity and each subject. The results are saved in tidydata.txt
 
 Source Data
 The data for tidydata.txt is derived from source data: The UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
-Identifiers
+#Identifiers
 subject - The ID of the test subjects
 activity - The type of activity performed when the corresponding measurements were taken
 
-Data Dictionary
+#Data Dictionary
 
   [1] "SubjectID"                                                               
   [2] "Activity"                                                                
