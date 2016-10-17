@@ -10,8 +10,8 @@ The data for tidydata.txt is derived from source data: The UCI Machine Learning 
 
 #Identifiers
 
- Subject - The ID of the test subjects.
- Activity - The type of activity performed when the corresponding measurements were taken.
+ ##Subject - The ID of the test subjects.
+ ##Activity - The type of activity performed when the corresponding measurements were taken.
 
 #Data Dictionary
 
