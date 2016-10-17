@@ -4,8 +4,11 @@
 #Codebook Description
 Summarizes the average of each variable for each activity and each subject. The results are saved in tidydata.txt
 
-Source Data
+#Source Data  
 The data for tidydata.txt is derived from source data: [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
+
+#Project Data
+Project Data (zip files) can be retrieved from : [Project Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
 
 #Data Set Information:
 
